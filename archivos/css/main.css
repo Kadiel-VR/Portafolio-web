@@ -9,7 +9,7 @@
   --background-color: #ffffff; 
   --default-color: #4e4e4e; 
   --heading-color: #0a090f; 
-  --accent-color: #0078ff;
+  --accent-color: #dfd924;
   --surface-color: #ffffff; 
   --contrast-color: #ffffff; 
 }
@@ -38,9 +38,9 @@
 }
 
 .accent-background {
-  --background-color: #0078ff;
-  --default-color: #ffffff;
-  --heading-color: #ffffff;
+  --background-color: #d4ff00;
+  --default-color: #000000;
+  --heading-color: #060606;
   --accent-color: #ffffff;
   --surface-color: #3393ff;
   --contrast-color: #ffffff;
