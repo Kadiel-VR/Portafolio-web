@@ -6,7 +6,7 @@ document.head.appendChild(script);
 
 script.onload = () => {
     document.getElementById('download-link').addEventListener('click', function (e) {
-        e.preventDefault();  // Previene el comportamiento por defecto del enlace
+        e.preventDefault();  
         const element = document.getElementById('curriculum');
         html2pdf()
             .from(element)
